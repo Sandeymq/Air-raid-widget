@@ -1,3 +1,7 @@
+Air raid widget
+
+<img width="431" height="380" alt="preview" src="https://github.com/user-attachments/assets/97c4323f-6e04-4515-9b32-a67fceff0602" />
+
 Віджет зроблений ШІ на базі цього віджета: https://github.com/dr-mod/air-raid-widget-macos
 
 
